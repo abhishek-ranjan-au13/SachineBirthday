@@ -67,6 +67,12 @@ body{
     background-size: cover;
     background-position: center;
 }
+#gift-img-party:hover {
+    background-image: url("images/party.gif");
+    background-size: cover;
+    background-position: center;
+}
+
 #gift-img-cheers {
     height: 200px;
 }
